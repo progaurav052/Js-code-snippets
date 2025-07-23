@@ -32,3 +32,6 @@ async function handlePromise(){
 
 }  
 handlePromise();
+// as soon as handle promise is called js engine registers the promises to be resolved and starts the timer 
+// when it comes to the line which has promise resolve code , handlePromise is suspended from the call-stack and promise is resolved 
+// once we get it resolved , handlepromise() comes to call stack again 
