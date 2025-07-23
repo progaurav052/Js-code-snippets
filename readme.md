@@ -1,0 +1,14 @@
+# Concepts Covered :
+- what is an Execution Context :
+- what are the phases of an Execution context 
+- Hoisting in js 
+- undefined vs not defined 
+- Eg for syntax , reference error ?
+- what is window and global object 
+- is window and this same ?
+- what is scope , block ? and what is scope chain ?
+- what is lexical Environment 
+- are let and const declaration also hoisted ?
+- What is temporal Dead Zone ?
+- Shadowing var , let and const in Js 
+- FirstClass functions and anonymous functions? 
